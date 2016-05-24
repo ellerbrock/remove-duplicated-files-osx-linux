@@ -1,6 +1,26 @@
 ![logo](https://github.frapsoft.com/top/open-source-v1.png)  
 
-# ProjectName [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+# Remove  duplicated files on OS X and Linux [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+
+*Tutorial how to find and delete duplicated files with [fdupes](https://github.com/adrianlopezroche/fdupes) on a UNIX based system.*
+
+### OS X Installation:  
+
+`brew update && brew install fdupes`   
+
+### Linux (apt based)  
+
+`apt-get update && apt-get install fdupes`
+
+### Usage
+
+`fdupes -r -d -N  /folder/with/duplicated/files/`   **attention:** deletes recursive directly!  
+
+> -r recursive  
+> -d delete  
+> -N don't ask, delete directly  
+
+
 ### Contact / Social Media
 
 *Get the latest News about Web Development, Open Source, Tooling, Server & Security*
