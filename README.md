@@ -1,6 +1,6 @@
 ![logo](https://github.frapsoft.com/top/open-source-v1.png)  
 
-# Remove  duplicated files on OS X and Linux [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+# Remove  duplicated files on OS X and Linux [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v101)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
 *Tutorial how to find and delete duplicated files with [fdupes](https://github.com/adrianlopezroche/fdupes) on a UNIX based system.*
 
@@ -18,9 +18,7 @@
 
 > -r recursive  
 > -d delete  
-> -N don't ask, delete directly  
-
-
+> -N don't ask, delete directly
 ### Contact / Social Media
 
 *Get the latest News about Web Development, Open Source, Tooling, Server & Security*
@@ -33,7 +31,7 @@
 
 ### Development by 
 
-Developer: [Maik Ellerbrock](https://github.com/ellerbrock/)  
+Developer / Author: [Maik Ellerbrock](https://github.com/ellerbrock/)  
 Company: [Frapsoft](https://github.com/frapsoft/)
 
 
